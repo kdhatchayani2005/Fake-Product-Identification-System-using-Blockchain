@@ -1,6 +1,6 @@
 # FraudBlock
 
-![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock)
+![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock).
 
 ```
 NOTE: Devlopement of this project has been stopped because I am working on newer projects so this repository will not be receving any updates.
