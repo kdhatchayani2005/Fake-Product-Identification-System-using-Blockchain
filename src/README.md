@@ -1,6 +1,6 @@
-# FraudBlock
+# Fake Product Identification System using Blockchain
 
-![GitHub](https://github.com/kdhatchayani2005/Fake-Product-Identification-System-using-Blockchain/blob/main/project%20output%20screenshots/Screenshot-1.png).
+The **Fake Product Identification System using Blockchain** is a decentralized application developed to detect and prevent counterfeit products in the market. In this system, manufacturers register product details such as product ID, batch number, and production information on the blockchain using smart contracts. Each product is linked with a unique QR code or identification number that consumers can use to verify authenticity. Since blockchain technology is immutable and tamper-proof, once the product information is stored, it cannot be altered or manipulated. This ensures transparency, security, and trust between manufacturers and consumers, helping to reduce fake products and protect brand reputation.
 
 ```
 NOTE: Devlopement of this project has been stopped because I am working on newer projects so this repository will not be receving any updates.
