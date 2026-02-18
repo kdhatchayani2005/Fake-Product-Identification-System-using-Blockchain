@@ -28,7 +28,7 @@ Last Update: Fixed issues with connecting with metamask.
 
 1. Clone the project
 ```
-git clone https://github.com/yogeshxd/FraudBlock
+git clone https://github.com/kdhatchayani2005/Fake-Product-Identification-System-using-Blockchain
 ```
 2. Go to the project folder, open terminal there and run following command to install required node_modules:-
 ```
@@ -60,5 +60,3 @@ npm run dev
 ``` 
 7. Login to metamask ,and connect the added account to local blockchain by clicking the 'Connect Wallet' button on the homescreen.
 8. Interact with website
-
-### Psst... I have also added all the documents(reports, ppts, base paper etc.) incase anyone of you might wanna use it as your minor/major project.
