@@ -1,6 +1,6 @@
 # FraudBlock
 
-![GitHub](https://img.shields.io/github/last-commit/yogeshxd/FraudBlock).
+![GitHub](https://github.com/kdhatchayani2005/Fake-Product-Identification-System-using-Blockchain/blob/main/project%20output%20screenshots/Screenshot-1.png).
 
 ```
 NOTE: Devlopement of this project has been stopped because I am working on newer projects so this repository will not be receving any updates.
@@ -10,7 +10,7 @@ Last Update: Fixed issues with connecting with metamask.
 ### Blockchain based Fake product identification Solution using QR Codes
 
 ## Installation & Demo
-[![FraudBlock](https://github.com/yogeshxd/FraudBlock/blob/main/Documents/image.png)]
+[![FraudBlock](https://github.com/kdhatchayani2005/Fake-Product-Identification-System-using-Blockchain/blob/main/project%20output%20screenshots/Screenshot-1.png)]
 
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
